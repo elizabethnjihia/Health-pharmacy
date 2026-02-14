@@ -1,5 +1,6 @@
 # Health-pharmacy
-Health pharmacy insight.
+##Health pharmacy insight.
+
 The Power BI dashboard provides a comprehensive analysis of hospital pharmacy performance across counties, departments, and patient demographics. The results highlight key patterns in disease prevalence, revenue generation, cost distribution, and operational efficiency that support informed decision-making.
 
 The analysis shows that certain diseases consistently account for the highest number of patient visits across multiple counties. These high-volume conditions drive overall hospital activity and significantly influence pharmacy demand. Trend evaluation over time indicates relatively stable patterns for chronic illnesses, while some conditions display periodic fluctuations, suggesting potential seasonal effects. Understanding these patterns enables better planning of pharmaceutical inventory and staffing requirements.
